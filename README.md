@@ -182,4 +182,6 @@ CFG → [冻结 CFGEncoder] → 节点嵌入
 ## 数据集
 
 - **检测任务**：SmartBugs-Wild + SolidFI-Benchmark（共 4676 个合约）
+  https://github.com/smartbugs/smartbugs-wild
+  https://github.com/DependableSystemsLab/SolidiFI-benchmark
 - **定位任务**：MANDO + BJUT_SC01（2800 个重入漏洞合约）
